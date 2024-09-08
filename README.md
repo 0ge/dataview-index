@@ -7,7 +7,7 @@ Features:
 
  - Index is generated automatically, based on index notes.
  - The index is "clickable"; you can click a given area/category/ID to navigate
-   to the associated index note.
+   to the associated index note. You can preview by hovering.
  - Index notes for IDs ("ID notes") will automatically list files in its
    directory. (In Obsidian)
  - ID notes has option to define one or multiple locations, which are listed in
@@ -17,17 +17,7 @@ Features:
 
 It looks like this, but the formatting is customizable:
 
-![Example of the generated index.](img/Example-Index.png)
-
-*Example of the generated index.*
-
-***
-
-![Example of an index note for an ID](img/Example-ID.png)
-
-*Example of the an index note for an ID. The list of notes is auto-generated.*
-
-***
+https://github.com/user-attachments/assets/c340b31f-dab2-400c-860c-29bac3506286
 
 ## Instructions
 
